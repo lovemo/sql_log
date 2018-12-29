@@ -1,7 +1,8 @@
 # sql_log
 thinkphp sql log analysis tool
 
-```sh
+```bash
+
 php SqlLogTool.php -h
 
   e.g.      php ./sqlLog.php -p path -d day -t time
